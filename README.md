@@ -19,7 +19,7 @@ Welcome to my GitHub. I’m focused on building practical and scalable systems �
 ## 💡 Technical Stack
 
 ### 🖥️ Front-End
-- **Flutter**: Modular architecture, clean design systems, scalable routing (`GoRouter`, `auto_route`)
+- **Flutter**: Modular architecture, clean design systems, scalable routing (`GoRouter`)
 - **State Management**:  `Provider`, `setState` (where it makes sense)
 - **UI/UX**: Smooth animations, responsive layouts, component-driven design
 
