@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Balint
 
 🔧 Engineer-in-training | Startup Co-founder | Flutter Developer | Marine Tech Enthusiast
 
