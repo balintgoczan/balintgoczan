@@ -9,9 +9,9 @@ Welcome to my GitHub. I’m focused on building practical and scalable systems �
 
 ## ⚙️ What I’m Working On
 
-- 🛥️ Co-founder of a startup building a **student race boat** — hands-on with electronics, design, and systems integration
+- 💼 **CEO & Co-Founder of Homie**, a personality based roommate matching platform 
+- 🛥️ Co-founder of a **student race boat** — hands-on with electronics, design, and systems integration
 - ❤️ Building an **analog heart rate sensor** from scratch using IR + red phototransistors
-- 💼 Leading the **front-end development** of a Flutter app connected to a C# back-end
 - 🔬 Continuously experimenting with electronics, biosignals, and embedded systems
 
 ---
@@ -38,7 +38,6 @@ Welcome to my GitHub. I’m focused on building practical and scalable systems �
 - 🧠 I prioritize **deep work** — long, focused sessions where I can fully engage with the problem
 - 💪 I’m very **hard-working** and take pride in understanding systems at a low level  
 - 👨‍🔧 I enjoy both software and hardware challenges — especially when they connect  
-- 🤝 And yes, I’m that **homie** who’s reliable, driven, and team-oriented
 
 ---
 
