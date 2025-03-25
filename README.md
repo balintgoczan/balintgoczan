@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 # 👋 Hi, I'm [Your Name]
 
 🔧 Engineer-in-training | Startup Co-founder | Flutter Developer | Marine Tech Enthusiast
@@ -22,7 +20,7 @@ Welcome to my GitHub. I’m focused on building practical and scalable systems �
 
 ### 🖥️ Front-End
 - **Flutter**: Modular architecture, clean design systems, scalable routing (`GoRouter`, `auto_route`)
-- **State Management**: `Riverpod`, `Provider`, `setState` (where it makes sense)
+- **State Management**:  `Provider`, `setState` (where it makes sense)
 - **UI/UX**: Smooth animations, responsive layouts, component-driven design
 
 ### ☁️ Back-End Integration
@@ -47,11 +45,9 @@ Welcome to my GitHub. I’m focused on building practical and scalable systems �
 ## 📫 Let’s Connect
 
 If you’re working on or interested in:
-- Flutter development at a high standard
+- Flutter development
 - Marine tech and racing hardware
 - Embedded systems and biosensors
 - Startups, focused work, or just building cool stuff
 
 Feel free to reach out or check out some of my work. Thanks for visiting.
-
--->
